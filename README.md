@@ -21,16 +21,7 @@
                         </li>
 
 
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container ">
-        
 
-
-        <main role="main" class="pb-3">
             
 
 <div class="container-fluid post">
