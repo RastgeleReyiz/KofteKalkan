@@ -1,20 +1,4 @@
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="&lt;p&gt;Aylarca beklediniz, hilecilerden dolay&#x131; g&#xF6;revi yapamad&#x131;n&#x131;z, ama sonunda k&#xF6;fte kalkan geldi!&lt;br&gt;&lt;br&gt;Sitemizin k&#xF6;fte kalkan b&#xF6;l&#xFC;m&#xFC;nden ayr&#x131;nt&#x131;l&#x131; bilgiyi alabilirsiniz!&lt;/p&gt;">
-
-    <meta name="keywords" content="Rastgele Reyiz, Rastgele reyiz, rastgele reyiz discord, rastgele reyiz twitch, rastgele reyiz">
-    <meta name="author" content="Rastgele Reyiz">
-    <title>K&#xF6;fte Kalkan &#xC7;&#x131;kt&#x131;</title>
-    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css" />
-    <link rel="stylesheet" href="/css/site.css?v=ZP3XnLLoCqJjgFPO7rTl9OA0khmXN8vzX1YQeMfL9kc" />
-    
-</head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
